@@ -1,1 +1,1 @@
-i am starting code at ubuntu server
+starting code at ubuntu server
